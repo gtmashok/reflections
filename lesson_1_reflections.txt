@@ -1,0 +1,7 @@
+Answer 1: Viewing different versions allows you to trace the bug and determine
+where it originated
+
+Answer 2: Having past versions allows us to improve as a programmer.
+
+Answer 3: You have to invest time and effort on how you are committing changes, which
+could be directed towards developing code.
