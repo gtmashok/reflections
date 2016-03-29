@@ -1,0 +1,7 @@
+Answer 1: When you initialize a git repository, you are creating a .git
+extension directory. Need to do it to track versions of ordinary folders.
+
+Answer 2: Staging area is the intermediate stage between 
+working directory in the local machine and the 
+repository. It allows to track which files have yet to be 
+updated and/or look at which commits need to go into the repo.
