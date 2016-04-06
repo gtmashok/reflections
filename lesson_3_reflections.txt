@@ -1,1 +1,2 @@
-
+Answer 1: It's good to use a remote repository when there a multiple people working on the same file or there exists a situation 
+requiring collaboration from multiple people. This is usually the case when major changes need to be made.
