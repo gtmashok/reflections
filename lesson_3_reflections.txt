@@ -1,2 +1,5 @@
 Answer 1: It's good to use a remote repository when there a multiple people working on the same file or there exists a situation 
 requiring collaboration from multiple people. This is usually the case when major changes need to be made.
+
+Answer 2: It is better to pull changes manually so that you can work on a new branch on your local machine and then push your changes to 
+GitHub. Having Git automatically update also takes up internet bandwidth and/or memory power
