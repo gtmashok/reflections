@@ -3,3 +3,12 @@ requiring collaboration from multiple people. This is usually the case when majo
 
 Answer 2: It is better to pull changes manually so that you can work on a new branch on your local machine and then push your changes to 
 GitHub. Having Git automatically update also takes up internet bandwidth and/or memory power
+
+Answer 3: Forks are repositories cloned between GitHub accounts.
+Clones are replications of a repositories between GitHub and one's
+local machine or within the local machine.
+Branches are a copy of a repository at a particular juncture that 
+document changes in a separate commit history from the original branch
+name. One would use branches to test new features or create different 
+flavors of a program. Forking is used to share repositories between 
+different people, who can then clone into their local machines.
