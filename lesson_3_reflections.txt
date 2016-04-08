@@ -12,3 +12,32 @@ document changes in a separate commit history from the original branch
 name. One would use branches to test new features or create different 
 flavors of a program. Forking is used to share repositories between 
 different people, who can then clone into their local machines.
+
+Answer 4: It helps to have the last known state of the remote locally because it
+reduces the number of conflicts that need to be managed between committs. It also
+ensures that one is adding new features to the latest version of code that have
+dependencies on other parts of the code that have been updated.
+
+Answer 5: Without Git or GitHub, one would have to gain 
+full agreement between the 
+collaborators on every change and divide between sections
+rather than use our combined
+strengths to work on the same section. With GitHub, it is
+easy to see all proposed changes
+systematically and visually. But one must be careful with 
+all the commands on Git and not
+accidentally perform a merge when a pull request is made.
+Also, on GitHub, a user must 
+learn how to navigate between multiple pull requests from 
+different people and be willing
+to host a conference call to resolve differences since in-
+line comments may not always be 
+clear
+
+Answer 6: It makes sense to introduce a new branch when introducing an experimental
+feature or flavor to your code. Moreover, to ensure you are working with the main core 
+of the code, it makes sense to update the local master branch on a daily basis and 
+merge the udpated local master into your personal branch. This way one gets the best of
+both worlds - they have the updated main master branch code to work with while not 
+disrupting the master branch in GitHub. And they can of course, push their own branch
+to GitHub and make a pull request of their branch with the master branch owner.
